@@ -35,6 +35,7 @@ icarus = "0.1.14"
 
 [libraries]
 icarus = { module = "com.github.mr5:icarus", version.ref = "icarus" }
+
 ```
 
 Java codes:
